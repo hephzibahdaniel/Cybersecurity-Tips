@@ -89,4 +89,4 @@ Master these three, and you begin to understand the language of networks — and
 
 #CyberSecurity #SOC #Networking #ThreatHunting #BlueTeam #DHCP #ARP #DNS #CyberTraining # CyberNovaAcademy
 
-[ping in Network.Diagnosis] https://github.com/hephzibahdaniel/Cybersecurity-Tips/blob/main/Ping%20in%20Network%20Diagnostics%3A%20Practical%20Applications%20for%20Cybersecurity%20Professionals
+
